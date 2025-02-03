@@ -1,0 +1,15 @@
+{
+    "name": "Test_Cyclone_RPA",
+    "description": "",
+    "manual": "",
+    "outputType": "project",
+    "main": "/Main process.flow",
+    "version": "1.0.0",
+    "engines": {
+        "designer": "5.0.RT189",
+        "server": "5.0.RT189",
+        "executor-runtime": "4.2.0"
+    },
+    "uuid": "e5eb8e1c-4949-4260-858d-2c483083f281",
+    "dependencies": {}
+}
